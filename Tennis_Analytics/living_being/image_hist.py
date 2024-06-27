@@ -13,7 +13,7 @@ import cv2
 # plt.ylabel("# of Pixels")
 # plt.plot(hist)
 # plt.xlim([0, 256])
-selfb
+
 # plot the normalized histogram
 image = cv2.imread("ourt_pic.png")
 # split the image into its respective channels, then initialize the
